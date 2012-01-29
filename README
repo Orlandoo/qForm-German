@@ -1,0 +1,9 @@
+German language files for iphorm - WordPress Form Builder
+Deutsche Sprachdateien für iPhorm - WordPress Formulargenerator
+
+iPhorm ist ein hervorragender Formulargenerator für Wordpress. Demo und Downloadlink unter demos.themecatcher.net/iphorm-examples/
+
+Hier findest Du die deutschen Sprachdateien zu diesem Plugin. Einfach die beiden Dateien herunterladen und in den Sprachenordner des Plugins kopieren:
+
+wp-content > plugins > iphorm-form-builder > languages
+
